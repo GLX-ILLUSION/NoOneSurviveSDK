@@ -1,0 +1,3 @@
+GWORLD: 48 8B 1D ? ? ? ? 48 85 DB 74 ? 41 B0 01 [WRSH-Win64-Shipping.exe+0x756A640]
+GNAMES: 4C 8D 05 ? ? ? ? EB ? 48 8D 0D ? ? ? ? E8 [WRSH-Win64-Shipping.exe+0x733A800]
+GOBJECTS: 48 8B 05 ? ? ? ? 48 8B 0C C8 4C 8D 04 D1 [WRSH-Win64-Shipping.exe+0x70E24C0]
