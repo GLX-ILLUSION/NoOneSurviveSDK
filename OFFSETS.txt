@@ -1,3 +1,32 @@
 GWORLD: 48 8B 1D ? ? ? ? 48 85 DB 74 ? 41 B0 01 [WRSH-Win64-Shipping.exe+0x756A640]
 GNAMES: 4C 8D 05 ? ? ? ? EB ? 48 8D 0D ? ? ? ? E8 [WRSH-Win64-Shipping.exe+0x733A800]
 GOBJECTS: 48 8B 05 ? ? ? ? 48 8B 0C C8 4C 8D 04 D1 [WRSH-Win64-Shipping.exe+0x70E24C0]
+
+
+{
+   "offsets":{
+      "GNames":"0x733A800",
+      "GWorld":"0x756A640",
+      "CameraManager":"0x03E8",
+      "CameraCache":"0x22B0",
+      "PersistentLevel":"0x30",
+      "OwningGameInstance":"0x01B8",
+      "LocalPlayers":"0x38",
+      "PlayerController":"0x30",
+      "AcknowledgePawn":"0x0338",
+      "RootComponent":"0x0198",
+      "ActorArray":"0x98",
+      "oActorCount":"0xa0",
+      "oPlayerState":"0x02B0",
+      "ActorMesh":"0x318",
+      "RelativeLocation":"0x11c",
+      "RelativeRotation":"0x128",
+      "oHealth":"0x05A8",
+      "oMaxHealth":"0x05D8",
+      "PlayerNamePrivate":"0x0388",
+      "AActorID":"0x18",
+      "BoneArray":"notfound", 
+      "ComponentToWorld":"0x1C0"
+   }
+}
+
