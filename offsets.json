@@ -1,0 +1,26 @@
+{
+    "offsets": {
+        "GNames": "0x733A800",
+        "GWorld": "0x756A640",
+        "CameraManager": "0x0348",
+        "CameraCachePrivate": "0x22B0",
+        "PersistentLevel": "0x30",
+        "OwningGameInstance": "0x01B8",
+        "LocalPlayers": "0x38",
+        "PlayerController": "0x30",
+        "AcknowledgePawn": "0x0338",
+        "RootComponent": "0x0198",
+        "ActorArray": "0x0098",
+        "ActorCount": "0x00A0",
+        "PlayerState": "0x02B0",
+        "ActorMesh": "0x318",
+        "RelativeLocation": "0x128",
+        "RelativeRotation": "0x140",
+        "oHealth": "0x05A8",
+        "oMaxHealth": "0x05D8",
+        "PlayerNamePrivate": "0x0388",
+        "AActorID": "0x18",
+        "BoneArray": "0x5C0",
+        "ComponentToWorld": "0x1C0"
+    }
+}
